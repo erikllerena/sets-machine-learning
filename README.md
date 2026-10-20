@@ -1,6 +1,6 @@
 # SETS — Machine Learning
 
-**Programa:** v1.0.2 · **Framework:** SETS v1.4.1 · **Namespace:** `ML00–ML14`
+**Programa:** v1.0.4 · **Framework:** SETS v1.4.1 · **Namespace:** `ML00–ML14`
 
 Comprender cómo los modelos aprenden patrones a partir de datos, bajo qué supuestos generalizan, cómo evaluar su utilidad y cómo elegir entre métodos estadísticos y algoritmos de aprendizaje con evidencia.
 
@@ -36,9 +36,13 @@ Se centra en principios y métodos de aprendizaje automático, especialmente fam
 - `learning/CASEBOOK.md`: casos ilustrativos.
 - `learning/LEARNING_PATHS.md`: rutas no obligatorias.
 - `practice/EXPERIMENTS.md`: ideas de experimentación optativas.
-- `practice/TRANSFER_CHALLENGES.md`: ejercicios para transferir principios.
+- `practice/TRANSFER_CHALLENGES.md`: retos opcionales para transferir principios.
+- `labs/LAB_GUIDE.md`: convenciones para laboratorios sin inventar ejecuciones o resultados.
+- `decisions/PROGRAM_DECISIONS_GUIDE.md`: registro de cambios importantes de diseño/alcance del propio programa (no actividad cotidiana del estudiante).
 - `state/`: estado y evidencias del aprendizaje; incluye `state/CONCEPT_MAP.md`, recomendado como fuente de relaciones conceptuales desde el inicio (opcional y sin progreso acreditado).
-- `docs/ACCEPTANCE_CHECKS.md`: pruebas manuales de comportamiento esperado.
+- `docs/ACCEPTANCE_CHECKS.md`: pruebas manuales del comportamiento del tutor (no evaluación del estudiante).
+
+**Uso de fuentes:** `practice/` y `labs/LAB_GUIDE.md` son recomendados desde el inicio, pero las actividades son optativas. `decisions/` y `docs/` se consultan al mantener o auditar el programa, no como material obligatorio de cada clase. Véase `SETUP_CHATGPT.md`.
 
 ## Cómo empezar
 
@@ -52,4 +56,4 @@ Se centra en principios y métodos de aprendizaje automático, especialmente fam
 
 ## Versionado
 
-Versión actual del programa: `v1.0.2` (base inicial `v1.0.0`). Se alinea con SETS Framework `v1.4.1`, sin modificarlo.
+Versión actual del programa: `v1.0.4` (base inicial `v1.0.0`). Se alinea con SETS Framework `v1.4.1`, sin modificarlo.
