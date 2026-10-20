@@ -6,7 +6,7 @@ framework:
   project_domain: Machine Learning
   objective_role: Machine Learning Practitioner
 program:
-  version: 1.0.1
+  version: 1.0.2
   repository: sets-machine-learning
   competency_namespace: ML
   scope: >-

@@ -1,6 +1,6 @@
 # SETS — Machine Learning
 
-**Programa:** v1.0.1 · **Framework:** SETS v1.4.1 · **Namespace:** `ML00–ML14`
+**Programa:** v1.0.2 · **Framework:** SETS v1.4.1 · **Namespace:** `ML00–ML14`
 
 Comprender cómo los modelos aprenden patrones a partir de datos, bajo qué supuestos generalizan, cómo evaluar su utilidad y cómo elegir entre métodos estadísticos y algoritmos de aprendizaje con evidencia.
 
@@ -52,4 +52,4 @@ Se centra en principios y métodos de aprendizaje automático, especialmente fam
 
 ## Versionado
 
-Versión actual del programa: `v1.0.1` (base inicial `v1.0.0`). Se alinea con SETS Framework `v1.4.1`, sin modificarlo.
+Versión actual del programa: `v1.0.2` (base inicial `v1.0.0`). Se alinea con SETS Framework `v1.4.1`, sin modificarlo.
