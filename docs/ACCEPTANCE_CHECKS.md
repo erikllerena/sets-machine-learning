@@ -11,6 +11,8 @@ Estas comprobaciones evalúan el comportamiento pedagógico esperado del program
 - [ ] **ML-OL7** — Deriva los mecanismos neuronales profundos a Deep Learning sin evitar explicar el contexto necesario.
 - [ ] **ML-OL8** — Evalúa generalización, límites y transferencia antes de declarar dominio.
 
+- [ ] **MAP-01** — Si `state/CONCEPT_MAP.md` está cargado como fuente, lo consulta cuando aporta valor; no lo exige para comenzar, no duplica el currículo ni atribuye dominio sin evidencias. Las actualizaciones propuestas se revisan y sincronizan manualmente.
+
 ## Registro de ejecución
 
 | Fecha | Check | Escenario | Observación | Resultado | Acción |

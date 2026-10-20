@@ -1,6 +1,6 @@
 # SETS — Machine Learning
 
-**Programa:** v1.0.0 · **Framework:** SETS v1.4.1 · **Namespace:** `ML00–ML14`
+**Programa:** v1.0.1 · **Framework:** SETS v1.4.1 · **Namespace:** `ML00–ML14`
 
 Comprender cómo los modelos aprenden patrones a partir de datos, bajo qué supuestos generalizan, cómo evaluar su utilidad y cómo elegir entre métodos estadísticos y algoritmos de aprendizaje con evidencia.
 
@@ -37,7 +37,7 @@ Se centra en principios y métodos de aprendizaje automático, especialmente fam
 - `learning/LEARNING_PATHS.md`: rutas no obligatorias.
 - `practice/EXPERIMENTS.md`: ideas de experimentación optativas.
 - `practice/TRANSFER_CHALLENGES.md`: ejercicios para transferir principios.
-- `state/`: estado y evidencias del aprendizaje; inicia sin progreso acreditado.
+- `state/`: estado y evidencias del aprendizaje; incluye `state/CONCEPT_MAP.md`, recomendado como fuente de relaciones conceptuales desde el inicio (opcional y sin progreso acreditado).
 - `docs/ACCEPTANCE_CHECKS.md`: pruebas manuales de comportamiento esperado.
 
 ## Cómo empezar
@@ -52,4 +52,4 @@ Se centra en principios y métodos de aprendizaje automático, especialmente fam
 
 ## Versionado
 
-Primera versión del programa: `v1.0.0`. Se alinea con SETS Framework `v1.4.1`.
+Versión actual del programa: `v1.0.1` (base inicial `v1.0.0`). Se alinea con SETS Framework `v1.4.1`, sin modificarlo.
